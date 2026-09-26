@@ -1,0 +1,7 @@
+pandas
+torch
+pypdf
+sentence-transformers
+llama-cpp-python
+scikit-learn
+numpy
